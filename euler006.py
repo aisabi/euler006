@@ -1,4 +1,4 @@
-# difference between the :
+# difference between the:
 # sum of the squares of the first n natural numbers and the square of the sum
 # example : sumSquareDifference(10) should return 3025 − 385 = 2640 
 def sumSquareDifference(n):
